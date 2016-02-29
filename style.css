@@ -1,0 +1,22 @@
+body {
+    box-sizing:border-box;
+    padding:100px;
+    font:15px/16.7px sans-serif;
+}
+
+p {
+	font-size: 20px;
+}
+
+section {
+    padding:20px 0;
+}
+label {
+    text-transform:capitalize;
+    margin:10px 0;
+    display:block;
+}
+
+button {
+    padding:10px;
+}
